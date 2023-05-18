@@ -5,42 +5,16 @@
 ### Učenik: Lara Kukec, 4.D
 ### Smjer: tehničar za računalstvo
 
-## Sadržaj:
-Predgovor
-1 Uvod
-1.1 Izbor završnog rada
-1.2 Cilj i zadaci
-2 Proces rada
-2.1 Korišteni materijali i alat
-2.1.1 Alat
-2.1.2 Komponente
-2.2 Shema
-2.2.1 Elektronička shema	
-2.2.2 3D model
-2.3 Proces izrade
-2.3.1 Lemljenje
-2.3.2 Testiranje led trake	
-2.3.3 3D modeliranje lampe	
-2.3.4 3D printanje	
-2.4 Dizajn korisničkog sučelja
-2.5 Programski kôd	
-3. Zaključak	
-4. Literatura	
-
 ## Predgovor
-
 Izjavljujem pod punom odgovornošću da sam završni rad izradio samostalno, isključivo znanjem stečenim tijekom srednjoškolskog obrazovanja, služeći se navedenim izvorima podataka i uz stručno vodstvo mentora Lovra Šverka, prof., kojemu se još jednom srdačno zahvaljujem. Također se zahvaljujem svojim kolegicama i kolegama te ostalim profesoricama i profesorima na pomoći.
 
 ## 1 Uvod
-
 Led lampe su postale popularan izbor za rasvjetu zbog svoje energetske učinkovitosti, trajnosti i fleksibilnosti u dizajnu. U ovom završnom radu bit će opisan proces izrade jedne takve led lampe korištenjem 3D modeliranja i printanja, upravljanje led lampom preko Arduina MKR1000 i upravljanje preko interneta pomoću Arduino IoT Cloud-a. Bit će opisan postupak odabira materijala za izradu sklopovlja i kućišta, te izrada samog sklopovlja i kućišta. Također, bit će opisane sve karakteristike led trake WS2812B, kao i postupak programiranja za upravljanje bojom, svjetlinom i paljenjem/gašenjem lampe preko interneta.
 
 ### 1.1 Izbor završnog rada
-
 Ovaj završni rad sam izabrala iz više razloga, jedan od njih je taj što kroz ovaj rad mogu pokazati većinu svojih vještina steknutih kroz svoje školovanje. No i zato što me iskreno jako zanimalo kako bi to izgledalo da ja napravim sama svoju led lampu, odnosno što se sve mora napraviti da bi ona bila funkcionalna, ali naravno i estetična te primamljiva izgledom.
 
 ### 1.2 Cilj i zadaci
-
 Cilj ovog rada je napraviti funkcionalnu led lampu koju će biti moguće upravljati preko WiFi mreže te naravno upoznati se s modernom tehnologijom koja je dio našeg svijeta. Prvobitno što se treba ustanoviti koje komponente ćemo koristiti za upravljanje led trake, zatim ide 3D modeliranje te printanje. Nakon toga nam slijedi programiranje naše upravljačke pločice te zatim izrada našeg korisničkog sučelja kojim ćemo upravljati Led lampom.
 
 ## 2 Proces rada
