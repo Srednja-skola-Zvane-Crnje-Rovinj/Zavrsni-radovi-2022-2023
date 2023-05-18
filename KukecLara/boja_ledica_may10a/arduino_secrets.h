@@ -1,2 +1,2 @@
-#define SECRET_SSID "Galaxy S21 FE 5G"
-#define SECRET_OPTIONAL_PASS "lara0301"
+#define SECRET_SSID "**********"
+#define SECRET_OPTIONAL_PASS "*********"
