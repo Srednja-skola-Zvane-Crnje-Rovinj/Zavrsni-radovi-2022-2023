@@ -74,11 +74,19 @@ U ovom radu provedeno je istraživanje područja prepoznavanja lica s ciljem dem
 
 ## 4. LITERATURA
 https://learnopencv.com/face-recognition-an-introduction-for-beginners/ (06.01.2023).
+
 https://elinux.org/Jetson_Nano (21.02.2023.)
+
 https://www.spyder-ide.org/ (22.03.2023.)
+
 https://www.youtube.com/watch?v=E2Dap5SfXkI&t (22.03.2023.)
+
 https://mediapipe.dev/  (23.03.2023.)
+
 https://developers.google.com/mediapipe (16.04.2023.)
+
 https://summerofcode.withgoogle.com/programs/2023/organizations/opencv (16.04.2023.)
+
 https://pypi.org/project/opencv-python/ (21.04.2023.)
+
 
